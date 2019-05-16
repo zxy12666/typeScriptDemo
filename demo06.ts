@@ -8,3 +8,4 @@ let jspang = {
 }
 console.log(jspang.name)
 jspang.saySometing()
+
